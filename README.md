@@ -14,7 +14,7 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
  
 * Click [here](https://public.tableau.com/profile/nicholas.amoroso#!/vizhome/TableauHomework_16058223224350/bikeusagetime?publish=yes) to view complted dashboard
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/top_location.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/top_location.png)
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/avg_bike_distance.png)
 
