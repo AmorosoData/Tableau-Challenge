@@ -16,12 +16,12 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 ![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/top_location.png)
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/avg_bike_distance.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/miles.png)
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popularity_over_time.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/populartime.png)
 
 ## Data Source
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/citibikeimg.png)
 
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
@@ -111,34 +111,24 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </tbody>
 </table>
 
-* Limitation
-I was unable to get most of the Gender demographics to work correctly.
-
 
 ## Findings 
 
 
-### (1) The current major citi bike riders fall into younger population group between 18 - 20 as there is also an increases over time as they are showing interest to start riding during the weekend
+### (1) The current major citi bike riders fall into younger population group between 18 - 25. Some data does not make sense as the majority of riders are over 100 years old... Femail ridership for 2019 is at its highest during early spring.
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/femal_ridership.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/demo_ride.png)
 
-### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
+### (2) The data demostrates that more people are out riding citibike in the summer time versus the winter between the hours of 11pm - 6am. Temperature could potentially be a factor as we all know NY can be quite cold during those winter months. This analysist speculates those bike rides occuring between midnight and 2am would be quite hillarious to witness in person. 
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/peakhours.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/peahhour.png)
 
-### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
+### (3) During winter months people tend not to ride as much because of those cold New York temperatures. For that reason, ridership does not grow during this time.
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/Growth.png)
 
 ## Map visualization for city officials
 
-* More and more people choose to live in Jersey City and work in Manhathan
+* A useful graphic for Citibike logistics. Naturally, they would want to keep more bikes at the top 10 stations to meet the demand, but would need to relocate bikes from the bottom 10 station start locations. 
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popular_location.png)
-
-## Technology Used
-
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
-
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
-
+![alt text](https://raw.githubusercontent.com/AmorosoData/Tableau-Challenge/main/image/planning.png)
